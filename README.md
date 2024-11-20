@@ -1,6 +1,3 @@
-# FastAPI
-How to create API's using FastAPI
-
 # FastAPI Model Prediction
 
 This project implements a FastAPI-based web service to serve a machine learning model and make predictions.
