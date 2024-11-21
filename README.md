@@ -14,6 +14,7 @@ This project implements a FastAPI-based web service to serve a machine learning 
 
 ### 2. Set up a virtual environment:
 `python -m venv env`
+
 `source env/Script/activate`
 
 ### 3. Install dependencies
